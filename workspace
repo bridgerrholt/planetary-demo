@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Project name="Planetary Demo">
+        <Folder name="javascript">
+            <File name="javascript\ball.js" />
+            <File name="javascript\commons.js" />
+            <File name="javascript\draw.js" />
+            <File name="javascript\get-input.js" />
+            <File name="javascript\get-mouse-position.js" />
+            <File name="javascript\init.js" />
+            <File name="javascript\main.js" />
+            <File name="javascript\media-load.js" />
+            <File name="javascript\tick.js" />
+            <File name="javascript\tools.js" />
+            <File name="javascript\vector.js" />
+        </Folder>
+        <File name="index.html" />
+    </Project>
+</NotepadPlus>

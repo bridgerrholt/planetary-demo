@@ -1,0 +1,27 @@
+/*body {
+	background-color: #000;
+}
+
+canvas {
+	padding-top: 1%;
+	margin: auto;
+	display: block;
+}*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+canvas {
+	position: absolute;
+	display: block;
+	/*cursor: none;*/
+	/*cursor: url(../resources/images/cursor-001.gif), auto;*/
+}
+
